@@ -2,6 +2,7 @@
 ![Screenshot (4)](https://user-images.githubusercontent.com/60258353/95459792-f8a77d00-0928-11eb-8113-6641c871040f.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+## Steps
 step-1 install angular 2QR code module(npm install angular2-qrcode)
 step-2 import QRModule in app module
 step-3 implement QRCode generator (<qr-code [value]="'www.positronx.io'"></qr-code>)
